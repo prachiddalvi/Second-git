@@ -6,11 +6,11 @@ Node.JS with [Connect]
 ### To Install Dependencies ###
 
 ```sh
-npm install
+npm installWQDASDDASDAD	
 ```
 
 ### To run the application
-```sh
+```shsdasdadaQ	DSD
 node index.js
 ```
 
