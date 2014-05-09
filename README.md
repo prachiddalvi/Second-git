@@ -21,7 +21,7 @@ node index.js
 curl -i http://localhost:8000/ -X GET
 ```
 
-* GET with setting **Cookies** in the request header.
+* GET with setting **Cookies** in the request head
 ```sh
 curl -i http://localhost:8000/ -X GET --cookie "session_id=99999"
 # Add -v to enable the verbose mode to see what you are sending in the request header.
